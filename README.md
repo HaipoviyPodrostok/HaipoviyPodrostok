@@ -1,4 +1,4 @@
-## Hi 👋, Kurteev Alexander
+## Hi 👋, I'm Kurteev Alexander
 
 📫 kurteev.am@phystech.edu
 <!--
