@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCL-%23333333.svg?style=for-the-badge" alt="OpenCL"/>
-  <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro Linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
