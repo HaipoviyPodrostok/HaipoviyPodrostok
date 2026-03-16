@@ -7,6 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" height="16"> **telegram:** [@Ryan_gosling123456](https://t.me/Ryan_gosling123456)
 📭 **Email:** kurteev.am@phystech.edu  
 📞 +79524006639
+### Details in my **[CV repo](https://github.com/HaipoviyPodrostok/CV)**  
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
